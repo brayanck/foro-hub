@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Foro-Hub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Foro-Hub.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
